@@ -11,7 +11,7 @@ def get_greet():
 message = get_greet()
 print(message)
 def add(a,b):
-    a = 3
-    b = 5
-    return a + b
-print(add(3,5))
+    x = a + b
+    return x
+answer = add(5,3)
+print(answer)
